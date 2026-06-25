@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dis-lui-que-je-laime/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Dis-lui Que Je L'aime](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dis-lui-que-je-laime/) |
+| **Get License** | [Commercial Licensing for Dis-lui Que Je L'aime](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dis-lui-que-je-laime/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dis-lui que je l'aime, quand la ville s'illumine
+> Son regard m'ensorcelle, c'est la seule qui m'anime
+> J'ai le feu dans les veines, je la veux dans mon histoire
+> Dis-lui que je la veux, dans l'ambiance de ce soir
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
