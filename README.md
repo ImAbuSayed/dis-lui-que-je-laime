@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dis-lui-que-je-laime/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Dis-lui Que Je L'aime](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dis-lui-que-je-laime/) |
+| **Get License** | [Get License For Dis-lui Que Je L'aime](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dis-lui-que-je-laime/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `53919e3aa2d7581aaccda81b906be3ec7ac6f777f59da674379417b1f9805860` |
 | **Timestamp** | June 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

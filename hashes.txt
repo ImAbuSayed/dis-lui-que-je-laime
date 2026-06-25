@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dis-lui Que Je L'aime
+
+This log tracks the cryptographic history and versioning for the song **Dis-lui Que Je L'aime** (dis-lui-que-je-laime).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-25T12:14:48.388239 | `v1` | `53919e3aa2d7581aaccda81b906be3ec7ac6f777f59da674379417b1f9805860` | `f00cdf1fd69a0353f9eaa656479b4a1c48a7829b268b101350f99ef90b6e3d2b` | `2026-06-25_dis-lui-que-je-laime-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
